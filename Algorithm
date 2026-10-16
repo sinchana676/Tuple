@@ -1,0 +1,10 @@
+Step 1: Start.
+Step 2: Create a tuple with elements (10, 20, 30, 40, 50).
+Step 3: Display the tuple.
+Step 4: Display the first element using indexing.
+Step 5: Find and display the length, maximum, minimum, and sum of the tuple.
+Step 6: Use count() and index() to display the count and index of an element.
+Step 7: Perform concatenation, repetition, and slicing operations.
+Step 8: Check whether an element is present using the in operator.
+Step 9: Display each element using a loop.
+Step 10: Stop.
